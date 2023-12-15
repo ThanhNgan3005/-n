@@ -12,12 +12,12 @@
     <title>Trang chủ</title>
 </head>
 <body>
-  <div class="container-fluid bg-danger-subtle border-bottom border-danger">
+  <div class="container-fluid bg-black border-bottom border-danger">
     <div class="container">
       <div class="row">
         <div class="col-md-2 p-0 align-self-center">
           <a class="navbar-brand" href="index.php?controller=home">
-            <img src="./uploads/img/logo/logo_shop-removebg-preview.png" alt="Logo" width="150" class="d-inline-block align-text-top">
+            <img src="./uploads/img/logo/logoshop.jpg" alt="Logo" width="150" class="d-inline-block align-text-top">
           </a>
         </div>
         <div class="col-md-10">

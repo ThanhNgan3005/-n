@@ -1,6 +1,6 @@
 <div class="container-fluid p-0">
 
-  <footer class="text-center text-lg-start text-white" style="background:  #ff6666;">
+  <footer class="text-center text-lg-start text-white" style="background: black;">
     <!-- Grid container -->
     <div class="container p-4">
       <!--Grid row-->
@@ -9,7 +9,7 @@
         <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
 
           <div class="" style="width: 250px; height: 150px;">
-            <img src="./uploads/img/logo/logo_shop-removebg-preview.png" width="300" alt=""
+            <img src="./uploads/img/logo/logoshop.jpg" width="300" alt=""
                  loading="lazy" />
           </div>
 
@@ -20,13 +20,13 @@
 
           <ul class="list-unstyled">
             <li>
-              <p><i class="bi bi-geo-alt-fill pe-2"></i>Long Thạnh, Phụng Hiệp, Hậu Giang</p>
+              <p><i class="bi bi-geo-alt-fill pe-2"></i>Ninh Kiều, Cần Thơ</p>
             </li>
             <li>
-              <p><i class="bi bi-telephone-fill pe-2"></i>0852348684</p>
+              <p><i class="bi bi-telephone-fill pe-2"></i>0915837031</p>
             </li>
             <li>
-              <p><i class="bi bi-envelope pe-2"></i>nnphuc2000378@student.ctuet.edu.vn</p>
+              <p><i class="bi bi-envelope pe-2"></i>chientrungcungket123@gmail.com</p>
             </li>
           </ul>
         </div>

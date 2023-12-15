@@ -1,4 +1,4 @@
-<div class="container-fluid bg-danger-subtle pt-2 pb-2">
+<div class="container-fluid bg-light pt-2 pb-2">
     <div class="container">
       <div class="row flex-nowrap">
         <div class="col-md-auto dropdown">

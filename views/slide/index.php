@@ -25,7 +25,7 @@
             <tr>
                 <td scope="row"><?php echo $i ?></td>
                 <td><?php echo $row['duongDan']?></td>
-                <td><img src="<?php echo "./uploads/img/slide/".$row['hinhAnh'] ?>" width="350" alt=""></td>
+                <td><img src="<?php echo "./uploads/img/slide/".$row['hinhAnh'] ?>" width="100" alt=""></td>
                 <td>
                         <button type="button" class="btn btn-primary">
                             <a class="text-white" href="admin.php?controller=slide&action=update&id=<?php echo $row['idSlide']; ?>">

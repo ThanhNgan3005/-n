@@ -1,0 +1,63 @@
+.boxProduct{
+    position: relative;
+    transform: 0.8s;
+}
+.imgProduct{
+    overflow: hidden;
+}
+.imgProduct img{
+    object-fit: cover;
+    transition: transform 0.8s;
+    opacity: 1;
+
+}
+.muaNgay{
+    background: white;
+    position: absolute;
+    visibility: hidden;
+    opacity: 1;
+    position: absolute;
+    transition: 0.8s;
+}
+.hotLogo {
+    position: absolute;
+    right: 0%;
+    width: 120px;
+    height: auto;
+    opacity: 0.7;
+}
+.iconSale{
+    position: relative;
+}
+.capSale{
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 24px;
+    z-index: 1;
+}
+.bottom{
+    bottom: 40px;
+    padding: 10px;
+    position: absolute;
+    transition: linear 0.3s;
+    width: 100%;
+    opacity: 0.9;
+    visibility: hidden;
+}
+.boxProduct:hover{
+    border:  solid 1px grey;
+    border-radius: 5px;
+}
+.imgProduct:hover img{
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.boxProduct:hover .bottom{
+    bottom: 130px;
+    opacity: 0.9;
+    visibility: visible;
+}

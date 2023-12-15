@@ -1,0 +1,18 @@
+.nguoidung{
+    position: relative;
+}
+.doitt{
+    width: 250px;
+    background: white;
+    position: absolute;
+    visibility: hidden;
+    opacity: 0;
+    transition: 0.5 ease-out;
+}
+.doitt li{
+    list-style: none;
+}
+.nguoidung:hover .doitt{
+    opacity: 1;
+    visibility: visible;
+}

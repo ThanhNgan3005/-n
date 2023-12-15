@@ -1,0 +1,21 @@
+.dropbtn{
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content{
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    z-index: 100;
+    background: white;
+    min-width: 220px;
+    transition: 0.5s;
+}
+.dropdown:hover .dropdown-content{
+    display: block;
+    opacity: 1;
+    visibility: visible;
+}
+.test{
+    background: red;
+}
